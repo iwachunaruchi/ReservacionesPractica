@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "64a7c9e8b2b4f2b0a44e1234",
+    "nombre": "admin",
+    "descripcion": "Acceso completo al sistema"
+  },
+  {
+    "_id": "64a7c9e8b2b4f2b0a44e5678",
+    "nombre": "cliente",
+    "descripcion": "Acceso limitado para reservar propiedades"
+  }
+]
